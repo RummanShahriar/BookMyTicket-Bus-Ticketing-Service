@@ -1,10 +1,12 @@
 # 🚌 BookMyTicket – Bus Ticketing Service
 
-## 🏠 Home Page
-![Home Page](images/homepage.png)
+## 📸 Project Screenshots
 
-## 🎟️ Ticket Booking
-(card.jpg)
+### 🏠 Landing Page
+![Landing Page](1.jpg)
 
-## 🛠️ Admin Dashboard
-![Admin Panel](images/admin.png)
+### 🎟️ Card / Ticket View
+![Card View](card.jpg)
+
+### 🚌 Bus Listing Page
+![Bus Listing](lp5.jpg)
