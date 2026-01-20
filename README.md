@@ -4,7 +4,7 @@
 ![Home Page](images/homepage.png)
 
 ## 🎟️ Ticket Booking
-![Ticket Booking](images/card.jpg)
+(card.jpg)
 
 ## 🛠️ Admin Dashboard
 ![Admin Panel](images/admin.png)
